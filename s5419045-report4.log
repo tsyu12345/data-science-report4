@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.5.19)  8 AUG 2021 23:52
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.5.19)  9 AUG 2021 01:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,7 +614,7 @@ File: images/gyousyu01.png Graphic file (type bmp)
 File: images/gyousyu02.png Graphic file (type bmp)
 <images/gyousyu02.png>
 
-Overfull \hbox (6.50317pt too wide) in paragraph at lines 144--145
+Overfull \hbox (6.50317pt too wide) in paragraph at lines 151--152
  [] 
  []
 
@@ -623,45 +623,59 @@ File: images/gyousyu03.png Graphic file (type bmp)
 File: images/gyousyu04.png Graphic file (type bmp)
 <images/gyousyu04.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--163
+Underfull \hbox (badness 10000) in paragraph at lines 142--170
 [][]$[]$[] []$[]$[]
  []
 
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 135--163
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 142--170
 []$[]$[] []$[]$[] 
  []
 
-[5] [6]
+[5] [6] [7]
 File: images/dendoroHanten.png Graphic file (type bmp)
 <images/dendoroHanten.png>
-
-Overfull \hbox (142.33904pt too wide) in paragraph at lines 248--256
- [][][] 
+File: images/decition_ex1.PNG Graphic file (type bmp)
+<images/decition_ex1.PNG>
+ [8] [9]
+Overfull \hbox (17.40337pt too wide) in paragraph at lines 289--290
+[]\JY1/mc/m/n/10 決定木構築のレポ ート ： []$\T1/lmtt/m/n/10 https : / / drive 
+. google . com / file / d / 1QviNpUqGr6yGqpJYqp1gyfWtksf35V6o /
  []
 
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 316.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 316.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 316.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 316.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 316.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 316.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
  (./s5419045-report4.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
 Package rerunfilecheck Info: File `s5419045-report4.out' has not changed.
-(rerunfilecheck)             Checksum: 7810EE784AD4DD89260DF48D4233B524;733.
+(rerunfilecheck)             Checksum: ABA066FE9E6160F8126FB2FA4AA5BEAC;847.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 321.
  ) 
 Here is how much of TeX's memory you used:
- 7602 strings out of 482863
- 111978 string characters out of 5959218
- 376891 words of memory out of 5000000
- 22703 multiletter control sequences out of 15000+600000
- 601529 words of font info for 120 fonts, out of 8000000 for 9000
+ 7611 strings out of 482863
+ 112136 string characters out of 5959218
+ 378954 words of memory out of 5000000
+ 22710 multiletter control sequences out of 15000+600000
+ 604524 words of font info for 121 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
- 37i,9n,29p,595b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,9n,29p,595b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on s5419045-report4.dvi (8 pages, 31544 bytes).
+Output written on s5419045-report4.dvi (10 pages, 39356 bytes).

@@ -6,6 +6,7 @@
 \BOOKMARK [2][-]{subsection.3.1}{非階層的クラスタリング}{section.3}% 6
 \BOOKMARK [2][-]{subsection.3.2}{階層的クラスタリング}{section.3}% 7
 \BOOKMARK [2][-]{subsection.3.3}{非階層的クラスタリングと階層的クラスタリングの長所と短所}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{分類}{}% 9
-\BOOKMARK [1][-]{section.5}{相関ルール分析}{}% 10
-\BOOKMARK [1][-]{section.6}{まとめ}{}% 11
+\BOOKMARK [1][-]{section.4}{分類:決定木構築TDIDT}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{決定木について}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{TDIDTについて}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{相関ルール分析}{}% 12

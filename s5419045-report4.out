@@ -10,3 +10,5 @@
 \BOOKMARK [2][-]{subsection.4.1}{決定木について}{section.4}% 10
 \BOOKMARK [2][-]{subsection.4.2}{TDIDTについて}{section.4}% 11
 \BOOKMARK [1][-]{section.5}{相関ルール分析}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{支持度\(support\)}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{確信度\(confidence\)}{section.5}% 14
